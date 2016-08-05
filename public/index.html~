@@ -64,7 +64,7 @@
 <div class="vertical">
         <div class="main-header-content inner">
             <h1 class="page-title">
-              <a class="btn btn-bootstrap-2 title-scroll" role="button" href="/menara-air">Menara Air GIIG</a>
+              <a class="btn btn-bootstrap-2 title-scroll" role="button" href="menara-air/">Menara Air GIIG</a>
           </h1>
           <h2 class="page-description">Laman Menara Air Laboratorium Geoinformatika dan Informasi Geospasial UGM</h2>
         </div>
